@@ -41,20 +41,16 @@ module.exports = function (seed) {
     steps: Math.floor(random(100, 400)),
     endlessBrowser: false, // Whether to endlessly step in browser
 
-    // background image that drives the algorithm
-    debugLuma: false,
     backgroundScale: 1,
     backgorundFille: 'black',
     backgroundSrc: mapSrc,
 
     // browser/node options
     pixelRatio: 1,
-    width: 720 * 2,
-    height: 720 * 2,
+    width: 500 * 2,
+    height: 500 * 2,
     palette: getPalette(),
 
-    // node only options
-    asVideoFrames: false,
     filename: 'render',
     outputDir: 'output'
   };
