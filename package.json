@@ -1,6 +1,6 @@
 {
   "name": "supertone-color-wander",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "./browser.js",
   "license": "MIT",
@@ -52,7 +52,7 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "git://github.com/Anteloper/color-wander"
+    "url": "git://Argithub.com/Anteloper/color-wander"
   },
   "homepage": "https://github.com/Anteloper/color-wander",
   "bugs": {
