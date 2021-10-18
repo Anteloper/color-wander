@@ -1,13 +1,13 @@
 {
-  "name": "color-wander",
-  "version": "1.0.0",
+  "name": "supertone-color-wander",
+  "version": "1.0.1",
   "description": "",
   "main": "./browser.js",
   "license": "MIT",
   "author": {
-    "name": "Matt DesLauriers",
-    "email": "dave.des@gmail.com",
-    "url": "https://github.com/mattdesl"
+    "name": "Oliver Hill",
+    "email": "oliverhill97@gmail.com",
+    "url": "https://github.com/Anteloper"
   },
   "dependencies": {
     "array-shuffle": "^1.0.0",
@@ -52,10 +52,10 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "git://github.com/mattdesl/color-wander.git"
+    "url": "git://github.com/Anteloper/color-wander"
   },
-  "homepage": "https://github.com/mattdesl/color-wander",
+  "homepage": "https://github.com/Anteloper/color-wander",
   "bugs": {
-    "url": "https://github.com/mattdesl/color-wander/issues"
+    "url": "https://github.com/Anteloper/color-wander/issues"
   }
 }
