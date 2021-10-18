@@ -2,7 +2,7 @@
   "name": "supertone-color-wander",
   "version": "1.0.4",
   "description": "",
-  "main": "./browser.js",
+  "main": "./index.js",
   "license": "MIT",
   "author": {
     "name": "Oliver Hill",
